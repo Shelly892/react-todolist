@@ -1,6 +1,16 @@
-# 📝 TodoList App
+# 📝 TaskFlow
 
-A sleek, interactive, and fun-to-use Todo List application built with React and Tailwind CSS, demonstrating component-based architecture and best practices.
+_Organize tasks, streamline your day._
+
+## Live Demo
+
+👉 [TaskFlow](https://todo-list-app-omega-neon.vercel.app/)
+
+---
+
+## Overview
+
+TaskFlow is a lightweight and intuitive todo application built with **React** +**Vite**+**Tailwind CSS**. It helps you organize tasks, track progress, and stay productive throughout your day.
 
 ## Features
 
@@ -156,7 +166,3 @@ The application follows a modular component structure:
 - [ ] Export/import functionality
 - [ ] Task priority levels
 - [ ] Search and advanced filtering
-
----
-
-Built with ❤️ using React and modern web technologies
